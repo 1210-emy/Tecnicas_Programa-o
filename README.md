@@ -1,4 +1,4 @@
-# Tecnicas_Programacao
+# Técnicas_Programação
 Aula15-03-2022 - Material das aula de tecnicas de programação
 # Nome: Emilly Aparecida. 
 # RGM:722371339
